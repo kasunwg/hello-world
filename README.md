@@ -1,5 +1,5 @@
 # hello-world
 First repo
-First change
+First changes
 2nd commit
 Last entry
